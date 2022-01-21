@@ -1,6 +1,7 @@
-// Dwight Davis, William Griener, Donnelly Miller
-// CS 145
-// ??
+// William Griener, Donnelly Miller
+// CS 145 Ryan Parsons
+// 01/21/2022
+// Lab 1: Guessing Game
 
 // The program plays a simple guessing game with the user, in which it continuously prompts 
 // the user to guess a pseudorandomly generated number until they have guessed right.
