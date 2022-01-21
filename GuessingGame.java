@@ -21,7 +21,6 @@ public class GuessingGame {
       int gameCount = 0;
       int guessCount = 0;
       String answerPlay;
-      boolean a = true;
    
       while(answerPlay.substring(0, 1).equalsIgnoreCase("y")) {
          Random rand = new Random();
